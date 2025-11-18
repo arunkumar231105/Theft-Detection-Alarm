@@ -2,6 +2,7 @@
 This is an AI-powered real-time thief detection and alarm system built using TensorFlow.js, COCO-SSD model, and Next.js .
 It detects objects from a live webcam feed and plays a warning sound if a person is detected, simulating a smart alarm system for intruder alerts.
 
+
 📌 Features
 ✅ Real-time object detection using COCO-SSD (Common Objects in Context) model.
 
